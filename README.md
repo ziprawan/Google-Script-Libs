@@ -2,7 +2,7 @@
 Some Google Apps Script Libraries that made by me
 
 # Available Libraries
-- [tg-file-id](tg-file-id/README.md)
+- [tg-file-id](tg-file-id/)
 
 # Contribution
 
